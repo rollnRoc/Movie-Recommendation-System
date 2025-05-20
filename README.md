@@ -19,11 +19,6 @@ I've developed a similar application called "The Movie Cinema" which supports al
 
 If you can't find the movie you're searching for through auto-suggestions while typing, there's no need to worry. Simply type the name of the movie and press "enter". Even if you make some typos, it should still work fine.
 
-Source Code: https://github.com/kishan0725/The-Movie-Cinema
-
-## Featured in Krish's Live Session on YouTube
-
-[![krish youtube](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/krish-naik.PNG)](https://www.youtube.com/watch?v=A_78fGgQMjM)
 
 ## How to get the API key?
 
@@ -65,7 +60,4 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis&type=Timeline)](https://star-history.com/#kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis&Timeline)
 
